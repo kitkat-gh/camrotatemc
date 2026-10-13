@@ -1,0 +1,19 @@
+{
+	"key.category.camrotate.main": "Camrotate",
+	"key.camrotate.open_config": "Open Config Menu",
+
+	"camrotate.config.title": "Camrotate Settings",
+	"camrotate.config.category.general": "General",
+	"camrotate.config.category.rotation": "Rotation",
+
+	"camrotate.config.mod_enabled": "Mod Enabled",
+	"camrotate.config.mod_enabled.tooltip": "Turns Camrotate on or off completely.",
+
+	"camrotate.config.only_first_person": "Only in First Person",
+	"camrotate.config.only_first_person.tooltip": "Only rotate your body to match the camera while in first-person view.",
+
+	"camrotate.config.riding_rotation_type": "Rotation Type While Riding",
+	"camrotate.config.riding_rotation_type.tooltip": "Normal uses Minecraft's default rotation while riding. Always Follow uses Camrotate's rotation even while riding. [ WARNING: 'Always Follow' Rotation might break how you look to other players ]",
+	"camrotate.config.riding_rotation_type.normal": "Normal",
+	"camrotate.config.riding_rotation_type.always_follow": "Always Follow"
+}
